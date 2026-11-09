@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Automated-Sales-Tax-Vat-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Sales-Tax-Vat-Management?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Automated-Sales-Tax-Vat-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Sales-Tax-Vat-Management?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Sales-Tax-Vat-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Automated-Sales-Tax-Vat-Management?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Sales-Tax-Vat-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Automated-Sales-Tax-Vat-Management?style=flat-square&color=blue" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Sales-Tax-Vat-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -61,9 +61,9 @@ The following table benchmarks leading indirect tax SaaS providers, sorted in de
 
 ## 🔓 Open-Source Tax Calculation Libraries
 
-A curated collection of production-tested open-source libraries for self-hosted tax calculation, VAT validation, and economic nexus logic. Sorted by GitHub star count (descending).
+A curated collection of production-tested open-source libraries for self-hosted tax calculation, VAT validation, and economic nexus logic. Sorted by GitHub Stars_Count (descending).
 
-| Project & Repo | Stars | Language | Capabilities & Scope |
+| Project & Repo | GitHub_Stars | Language | Capabilities & Scope |
 |---|---|---|---|
 | **[laravel/vat-calculator](https://github.com/laravel/vat-calculator)** | [![Stars](https://img.shields.io/github/stars/laravel/vat-calculator?style=social&color=white)](https://github.com/laravel/vat-calculator/stargazers) | PHP | Full-featured EU VAT / MOSS calculation engine with geolocation lookup and VAT rate tables. |
 | **[valeriansaliou/node-sales-tax](https://github.com/valeriansaliou/node-sales-tax)** | [![Stars](https://img.shields.io/github/stars/valeriansaliou/node-sales-tax?style=social&color=white)](https://github.com/valeriansaliou/node-sales-tax/stargazers) | TypeScript / Node.js | International sales tax and VAT calculator for Node.js with offline tax rates and VAT fraud checks. |
